@@ -25,3 +25,8 @@ This contest was a great opportunity for me to apply my HTML and CSS skills prac
 
 # Conclusion
 Participating in this weekly contest at XYZ Project was both educational and rewarding. It allowed me to enhance my web development skills, specifically in the context of HTML and CSS, while creating a functional and aesthetically pleasing web page based on the provided design. I look forward to further challenges and opportunities for learning and growth in future contests.
+
+#  Contact✔️🔴
+If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
+- GITHUB LINK https://github.com/sandeep-mz/Week1Contest
+- DEPLOYED LINK https://sandeep-mz.github.io/Week1Contest/
