@@ -1,0 +1,11 @@
+body{
+    padding: 20px;
+}
+
+#div-1{
+    border: 2px solid black;
+    padding: 20px;
+}
+a{
+    color: black;
+} 
